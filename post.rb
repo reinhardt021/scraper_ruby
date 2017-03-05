@@ -6,11 +6,9 @@ class Post
         @writer = writer
         @title = title
         @comments = []
-        # puts "I'm a post! LOL. Today we are talking about #{@title} with #{@writer.name}"
     end
 
     def comments
-        # returns all comments associated with a particular post
         @comments
     end
 
