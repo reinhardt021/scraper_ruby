@@ -5,13 +5,13 @@ This is the first attempt at scraping from a web page.
 ## Setup
 
 ```
-tba
+$ gem install nokogiri
 ```
 
 ## Running Project
 
 ```
-tba
+$ ruby main.rb <url>
 ```
 
 
